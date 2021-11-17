@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fate-timeline/static/css/main.9769a57b.chunk.css",
+    "main.js": "/fate-timeline/static/js/main.4bb6cb08.chunk.js",
+    "main.js.map": "/fate-timeline/static/js/main.4bb6cb08.chunk.js.map",
+    "runtime-main.js": "/fate-timeline/static/js/runtime-main.d268f800.js",
+    "runtime-main.js.map": "/fate-timeline/static/js/runtime-main.d268f800.js.map",
+    "static/js/2.736ff2d2.chunk.js": "/fate-timeline/static/js/2.736ff2d2.chunk.js",
+    "static/js/2.736ff2d2.chunk.js.map": "/fate-timeline/static/js/2.736ff2d2.chunk.js.map",
+    "index.html": "/fate-timeline/index.html",
+    "static/css/main.9769a57b.chunk.css.map": "/fate-timeline/static/css/main.9769a57b.chunk.css.map",
+    "static/js/2.736ff2d2.chunk.js.LICENSE.txt": "/fate-timeline/static/js/2.736ff2d2.chunk.js.LICENSE.txt",
+    "static/media/HF.4db29ef8.jpg": "/fate-timeline/static/media/HF.4db29ef8.jpg",
+    "static/media/SN.cac80d16.jpg": "/fate-timeline/static/media/SN.cac80d16.jpg",
+    "static/media/UBW.ed2bd810.jpg": "/fate-timeline/static/media/UBW.ed2bd810.jpg",
+    "static/media/Zero.650d05c3.jpg": "/fate-timeline/static/media/Zero.650d05c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d268f800.js",
+    "static/js/2.736ff2d2.chunk.js",
+    "static/css/main.9769a57b.chunk.css",
+    "static/js/main.4bb6cb08.chunk.js"
+  ]
+}
