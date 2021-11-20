@@ -11,76 +11,6 @@ import FloatingEdge from "./helpers/FloatingEdge";
 import FloatingConnectionLine from "./helpers/FloatingConnectionLine.js";
 import createElements from "./helpers/createElements.js";
 
-import * as FateImages from "./images/images.js";
-
-const edgeType = "smoothstep"; // floating or smoothstep
-// eslint-disable-next-line no-unused-vars
-const testElements = [
-    {
-        id: "SN",
-        data: { label: "Fate/stay night" },
-        position: { x: 10, y: 10 },
-        targetPosition: "left",
-    },
-    // default node
-    {
-        id: "UBW",
-        data: { label: "Fate/stay night: Unlimited Blade Works" },
-        position: { x: 10, y: 10 },
-        targetPosition: "left",
-    },
-    {
-        id: "HF",
-        data: { label: "Fate/stay night: Heaven's Feel" },
-        position: { x: 10, y: 10 },
-        targetPosition: "left",
-    },
-    {
-        id: "Zero",
-        data: {
-            label: (
-                <div>
-                    <img
-                        src={FateImages.i_Zero}
-                        alt="Fate/Zero thumbnail"
-                        style={{
-                            width: "100%",
-                        }}
-                    />
-                </div>
-            ),
-        },
-        position: { x: 10, y: 10 },
-        sourcePosition: "right",
-    },
-    // animated edge
-    {
-        id: "edge-Z-SN",
-        target: "SN",
-        source: "Zero",
-        arrowHeadType: ArrowHeadType.Arrow,
-        type: edgeType,
-        animated: true,
-    },
-    {
-        id: "edge-Z-UBW",
-        target: "UBW",
-        source: "Zero",
-        arrowHeadType: ArrowHeadType.Arrow,
-        type: edgeType,
-        animated: true,
-        style: { "strokeWidth": "500px" },
-    },
-    {
-        id: "edge-Z-HF",
-        target: "HF",
-        source: "Zero",
-        arrowHeadType: ArrowHeadType.Arrow,
-        type: edgeType,
-        animated: true,
-    },
-];
-
 const initialElements = createElements();
 
 const edgeTypes = {
@@ -122,6 +52,7 @@ const Flow = () => {
                 defaultPosition={[200, 300]}
                 nodesDraggable={false}
                 nodesConnectable={false}
+                elementsSelectable={true}
             >
                 <Background />
             </ReactFlow>
