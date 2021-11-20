@@ -1,12 +1,10 @@
 import CookieConsent, { getCookieConsentValue, resetCookieConsentValue } from "react-cookie-consent";
 
 const handleAccept = () => {
-    if (process.env.REACT_APP_GOOGLE_ANALYTICS_ID) {
-        window.gtag('consent', 'update', {
-            ad_storage: 'allowed',
-            analytics_storage: 'allowed',
-        });
-    }
+    window.gtag('consent', 'update', {
+        ad_storage: 'allowed',
+        analytics_storage: 'allowed',
+    });
 }
 
 export default function Cookie() {
