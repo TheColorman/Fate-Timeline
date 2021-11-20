@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Flow from "./flow"
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+if (process.env.NODE_ENV !== 'production') {
+    require('dotenv').config();
+}
 
 // ========================================
 
