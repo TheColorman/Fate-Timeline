@@ -10,6 +10,7 @@ import useWindowDimensions from "./helpers/WindowDimensions";
 import FloatingEdge from "./helpers/FloatingEdge";
 import FloatingConnectionLine from "./helpers/FloatingConnectionLine.js";
 import createElements from "./helpers/createElements.js";
+import Cookie from "./helpers/CookieConsent";
 
 const initialElements = createElements();
 
@@ -54,6 +55,7 @@ const Flow = () => {
                 nodesConnectable={false}
                 elementsSelectable={true}
             >
+                <Cookie />
                 <Background />
             </ReactFlow>
         </div>
