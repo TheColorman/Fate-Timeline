@@ -3,33 +3,223 @@
         "id": "Zero",
         "name": "Fate/Zero",
         "position": {
-            "x": 0,
+            "x": -300,
             "y": 0
         },
-        "source": null
-    }, {
+        "source": "pre-zero",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/10087",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/10087",
+                "icon": "https://anilist.co/img/icons/favicon-16x16.png"
+            }
+        ],
+        "info": {
+            "description": "While technically a parallel world from Fate/stay night, they are so similar that they are shown connected here.",
+            "points": [
+                "Takes place during the fourth holy grail war.",
+                "Fujuki city is engulfed in flames in a disaster.",
+                "Emiya Kiritsugu saves Emiya Shirou."
+            ]
+        },
+        "time": "1994"
+    },
+    {
         "id": "SN",
         "name": "Fate/stay night",
         "position": {
             "x": 300,
             "y": -300
         },
-        "source": "Zero"
-    }, {
+        "source": "LEMCF",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/356",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/356",
+                "icon": "https://anilist.co/img/icons/favicon-16x16.png"
+            }
+        ],
+        "info": {
+            "description": "The 3 Fate/stay night entries are different routes of the original Fate/stay night visual novel. Each one starts identically, but eventually branch off into different timelines.",
+            "points": [
+                "Takes place during the fifth holy grail war.",
+                "The Saber route of the Fate/stay night visual novel.",
+                "Shirou remains defensive."
+            ]
+        },
+        "time": "2004"
+    },
+    {
         "id": "UBW",
         "name": "Fate/stay night: Unlimited Blade Works",
         "position": {
             "x": 300,
             "y": -5
         },
-        "source": "Zero"
-    }, {
+        "source": "LEMCF",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/22297",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/19603",
+                "icon": "https://anilist.co/img/icons/favicon-16x16.png"
+            }
+        ],
+        "info": {
+            "description": "The 3 Fate/stay night entries are different routes of the original Fate/stay night visual novel. Each one starts identically, but eventually branch off into different timelines.",
+            "points": [
+                "Takes place during the fifth holy grail war.",
+                "The Rin route of the Fate/stay night visual novel.",
+                "Shirou saves Rin."
+            ]
+        },
+        "time": "2004"
+    },
+    {
         "id": "HF",
         "name": "Fate/stay night: Heaven's Feel",
         "position": {
             "x": 300,
             "y": 300
         },
-        "source": "Zero"
+        "source": "LEMCF",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/25537",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/20791",
+                "icon": "https://anilist.co/img/icons/favicon-16x16.png"
+            }
+        ],
+        "info": {
+            "description": "The 3 Fate/stay night entries are different routes of the original Fate/stay night visual novel. Each one starts identically, but eventually branch off into different timelines.",
+            "points": [
+                "Takes place during the fifth holy grail war.",
+                "The Sakura route of the Fate/stay night visual novel.",
+                "Shirou actively fights in the war to protect Sakura. Considered the \"True Route\"."
+            ]
+        },
+        "time": "2004"
+    },
+    {
+        "id": "TMEF",
+        "name": "Today's Menu for the Emiya Family",
+        "position": {
+            "x": 300,
+            "y": 600
+        },
+        "source": "LEMCF",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/37033",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/100855",
+                "icon": "https://anilist.co/img/icons/favicon-16x16.png"
+            }
+        ],
+        "info": {
+            "description": "Parody of Fate/stay night. Takes place in a parallel world where everyone is friends for some reason. Centers around Emiya cooking food for various characters in Fate/stay night.",
+            "points": [
+                "Takes place during the fifth holy grail war(?).",
+                "Parody."
+            ]
+        },
+        "time": "2004"
+    },
+    {
+        "id": "LEMCF",
+        "name": "Lord El-Melloi II's Case Files",
+        "position": {
+            "x": 0,
+            "y": -9
+        },
+        "source": "Zero",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/38959",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/106918",
+                "icon": "https://anilist.co/img/icons/favicon-16x16.png"
+            }
+        ],
+        "info": {
+            "description": "Takes place right before the fift holy grail war, and follows Fate/Zero's Waver Velvet, now Lord El-Melloi II as he solves mysteries.",
+            "points": [
+                "Takes place right before the fifth holy grail war.",
+                "Spin-off series."
+            ]
+        },
+        "time": "2004"
+    },
+    {
+        "id": "pre-zero",
+        "name": "Late 1980s",
+        "position": {
+            "x": -600,
+            "y": 96
+        },
+        "source": null,
+        "info": {
+            "description": "",
+            "points": []
+        },
+        "time": "Late 1980s"
+    },
+    {
+        "id": "KL",
+        "name": "Fate/kaleid liner Prisma☆Illya",
+        "position": {
+            "x": -300,
+            "y": 292
+        },
+        "source": "pre-zero",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/14829",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/14829",
+                "icon": "https://anilist.co/img/icons/favicon-16x16.png"
+            }
+        ],
+        "info": {
+            "description": "Fate/kalid liner Prisma☆Illya and 2wei take place here. Parallel world where Irisviel decided not to turn Illya into the holy grail, and they stopped the ritual before it could be started.",
+            "points": [
+                "Holy grail wars stopped before fourth war could start.",
+                "Despite this taking place at the same time as Fate/stay night, where Illya is 18 years old, here she is canonically 10.",
+                "Magical yuri lolis."
+            ]
+        },
+        "time": "2004"
     }
+
 ]
