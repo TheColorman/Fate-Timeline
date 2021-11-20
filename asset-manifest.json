@@ -1,16 +1,11 @@
 {
   "files": {
-    "main.css": "/Fate-Timeline/static/css/main.9769a57b.chunk.css",
+    "main.css": "/Fate-Timeline/static/css/main.bddfb480.chunk.css",
     "main.js": "/Fate-Timeline/static/js/main.946e1926.chunk.js",
-    "main.js.map": "/Fate-Timeline/static/js/main.946e1926.chunk.js.map",
     "runtime-main.js": "/Fate-Timeline/static/js/runtime-main.fdecbe0d.js",
-    "runtime-main.js.map": "/Fate-Timeline/static/js/runtime-main.fdecbe0d.js.map",
-    "static/css/2.2dafda33.chunk.css": "/Fate-Timeline/static/css/2.2dafda33.chunk.css",
+    "static/css/2.944ef2d5.chunk.css": "/Fate-Timeline/static/css/2.944ef2d5.chunk.css",
     "static/js/2.a6c321e1.chunk.js": "/Fate-Timeline/static/js/2.a6c321e1.chunk.js",
-    "static/js/2.a6c321e1.chunk.js.map": "/Fate-Timeline/static/js/2.a6c321e1.chunk.js.map",
     "index.html": "/Fate-Timeline/index.html",
-    "static/css/2.2dafda33.chunk.css.map": "/Fate-Timeline/static/css/2.2dafda33.chunk.css.map",
-    "static/css/main.9769a57b.chunk.css.map": "/Fate-Timeline/static/css/main.9769a57b.chunk.css.map",
     "static/js/2.a6c321e1.chunk.js.LICENSE.txt": "/Fate-Timeline/static/js/2.a6c321e1.chunk.js.LICENSE.txt",
     "static/media/HF.4db29ef8.jpg": "/Fate-Timeline/static/media/HF.4db29ef8.jpg",
     "static/media/KL.1ff1af43.jpg": "/Fate-Timeline/static/media/KL.1ff1af43.jpg",
@@ -22,9 +17,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fdecbe0d.js",
-    "static/css/2.2dafda33.chunk.css",
+    "static/css/2.944ef2d5.chunk.css",
     "static/js/2.a6c321e1.chunk.js",
-    "static/css/main.9769a57b.chunk.css",
+    "static/css/main.bddfb480.chunk.css",
     "static/js/main.946e1926.chunk.js"
   ]
 }
