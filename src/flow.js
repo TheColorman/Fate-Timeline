@@ -49,8 +49,8 @@ const Flow = () => {
                 connectionLineComponent={FloatingConnectionLine}
                 snapToGrid={true}
                 minZoom={0.1}
-                defaultZoom={1}
-                defaultPosition={[200, 300]}
+                defaultZoom={0.5}
+                defaultPosition={[550, 500]}
                 nodesDraggable={false}
                 nodesConnectable={false}
                 elementsSelectable={true}
