@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fate-Timeline/static/css/main.bddfb480.chunk.css",
-    "main.js": "/Fate-Timeline/static/js/main.aa74831c.chunk.js",
+    "main.js": "/Fate-Timeline/static/js/main.951b6e74.chunk.js",
     "runtime-main.js": "/Fate-Timeline/static/js/runtime-main.fdecbe0d.js",
     "static/css/2.944ef2d5.chunk.css": "/Fate-Timeline/static/css/2.944ef2d5.chunk.css",
     "static/js/2.a6c321e1.chunk.js": "/Fate-Timeline/static/js/2.a6c321e1.chunk.js",
@@ -20,6 +20,6 @@
     "static/css/2.944ef2d5.chunk.css",
     "static/js/2.a6c321e1.chunk.js",
     "static/css/main.bddfb480.chunk.css",
-    "static/js/main.aa74831c.chunk.js"
+    "static/js/main.951b6e74.chunk.js"
   ]
 }
