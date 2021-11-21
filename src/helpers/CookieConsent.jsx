@@ -2,8 +2,8 @@ import CookieConsent, { getCookieConsentValue, resetCookieConsentValue } from "r
 
 const handleAccept = () => {
     window.gtag('consent', 'update', {
-        ad_storage: 'allowed',
-        analytics_storage: 'allowed',
+        ad_storage: 'granted',
+        analytics_storage: 'granted',
     });
 }
 
