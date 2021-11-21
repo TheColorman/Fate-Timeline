@@ -34,7 +34,7 @@
         "name": "Fate/stay night",
         "position": {
             "x": 300,
-            "y": -300
+            "y": -900
         },
         "source": "LEMCF",
         "links": [
@@ -64,7 +64,7 @@
         "name": "Fate/stay night: Unlimited Blade Works",
         "position": {
             "x": 300,
-            "y": -5
+            "y": -605
         },
         "source": "LEMCF",
         "links": [
@@ -94,7 +94,7 @@
         "name": "Fate/stay night: Heaven's Feel",
         "position": {
             "x": 300,
-            "y": 300
+            "y": -300
         },
         "source": "LEMCF",
         "links": [
@@ -124,7 +124,7 @@
         "name": "Today's Menu for the Emiya Family",
         "position": {
             "x": 300,
-            "y": 600
+            "y": -3
         },
         "source": "LEMCF",
         "links": [
@@ -152,7 +152,7 @@
         "id": "LEMCF",
         "name": "Lord El-Melloi II's Case Files",
         "position": {
-            "x": 0,
+            "x": 20,
             "y": -9
         },
         "source": "Zero",
@@ -220,6 +220,31 @@
             ]
         },
         "time": "2004"
+    },
+    {
+        "id": "KL3",
+        "name": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+        "position": {
+            "x": 0,
+            "y": 302
+        },
+        "source": "KL",
+        "links": [
+            {
+                "site": "MAL",
+                "url": "https://myanimelist.net/anime/31706",
+                "icon": "https://cdn.myanimelist.net/images/favicon.ico"
+            },
+            {
+                "site": "AniList",
+                "url": "https://anilist.co/anime/21379",
+                "icon": "https://anilist.co/img/icons/favicon-32x32.png"
+            }
+        ],
+        "info": {
+            "description": "Illya get transported to the Miyuverse, a parallel world from the Illyaverse.",
+            "points": []
+        },
+        "time": "2004"
     }
-
 ]

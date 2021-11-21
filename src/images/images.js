@@ -5,6 +5,7 @@ import i_HF from './HF.jpg';
 import i_TMEF from './TMEF.jpg';
 import i_LEMCF from './LEMCF.jpg';
 import i_KL from './KL.jpg';
+import i_KL3 from './KL3.jpg';
 
 export {
     i_Zero,
@@ -14,4 +15,5 @@ export {
     i_TMEF,
     i_LEMCF,
     i_KL,
+    i_KL3,
 }
